@@ -1,4 +1,4 @@
-import MaxWidthWrapper from "@/components/common/MaxWidthWrapper";
+import MaxWidthWrapper from "@/components/common/MaxWidthWrapper"
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
